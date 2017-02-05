@@ -1,3 +1,2 @@
 console.log('hogehogeegege');
-
-トロさんラーメン好きですか？
+console.log('海が好きだぁぁぁぁぁ');
